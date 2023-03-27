@@ -1,0 +1,17 @@
+public and private routes are very important . it is mostly used in login and logout functionality
+
+public route
+   -> Home
+   -> login
+   -> anyone can see both pages publicaly 
+
+private routes -> after login or signin user can see these pages without authentication user cannot see these pages
+    -> Profile
+    -> Enrol courses
+    -> setting
+    -> Logout
+    ->special functionality pages
+
+
+
+

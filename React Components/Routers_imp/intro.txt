@@ -1,0 +1,10 @@
+ It enables the creation of single-page web or mobile apps that allow navigating without refreshing the page.
+  It also allows us to use browser history features while preserving the right application view.
+
+  install latest version 6 
+ npm i react-router-dom
+
+ ---------index.js -----
+  <BrowserRouter>
+         <App/>
+    </BrowserRouter>

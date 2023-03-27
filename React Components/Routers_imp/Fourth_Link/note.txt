@@ -1,0 +1,13 @@
+Link is used in navbar instead of ancher tag to achieve 
+single page applivation which is not refreshed again and again 
+
+if ancher tag is used in navbar then it refreshed and dom is load again which makes website uneffective
+
+
+
+navlink vs link 
+
+The NavLink is used when you want to highlight a link as active. 
+So, on every routing to a page, the link is highlighted according to the activeClassName . 
+Link is for links that need no highlighting.
+ And a is for external links.
