@@ -68,5 +68,16 @@ react useful components
 
 ![responsiveNavbar ss4](https://user-images.githubusercontent.com/81517359/229359435-c3d9d1e8-385b-4aca-b584-71d6a7a78bbd.png)
 
+===================redux TODo App in react ------persist redux is also used ------------------------------------------------------------------
+![output screenshot 1](https://user-images.githubusercontent.com/81517359/230553563-85d1aa21-548a-44a0-a50e-d1e37cbfe718.png)
+
+![output screenshot 2](https://user-images.githubusercontent.com/81517359/230553600-d5063ca2-2850-4670-92fd-f45a93023baa.png)
+
+![output screenshot](https://user-images.githubusercontent.com/81517359/230553621-71584f9f-a27c-49ea-9465-762283cea88e.png)
+
+![persist REDUX  code screenshot 1](https://user-images.githubusercontent.com/81517359/230553643-f60dd610-0693-4391-b7b6-e335cbffcbb5.png)
+
+![persist REDUX  code screenshot](https://user-images.githubusercontent.com/81517359/230553657-9128253b-b58b-4be6-a9d9-f0454277369a.png)
+
 
 
